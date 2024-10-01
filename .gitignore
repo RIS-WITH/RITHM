@@ -163,5 +163,5 @@ cython_debug/
 # data/*
 
 # avoid to save robot_stimuli on github while keeping them in the repo structure
-robot_stimuli/*
-!robot_stimuli/.gitkeep
+*/robot_stimuli/*
+#!robot_stimuli/.gitkeep
