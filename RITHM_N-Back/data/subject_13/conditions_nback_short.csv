@@ -1,0 +1,7 @@
+sequence,is_target,condition,stimuli,block,is_block_beginning,is_block_ending,fname,subject
+P,False,1,letter,2,True,False,robot_stimuli\\filler.mp4,13
+X,False,1,letter,2,False,False,robot_stimuli\\filler.mp4,13
+X,True,1,letter,2,False,False,robot_stimuli\\filler.mp4,13
+D,False,1,letter,2,False,False,robot_stimuli\\filler.mp4,13
+X,False,1,letter,2,False,False,robot_stimuli\\filler.mp4,13
+X,True,1,letter,2,False,True,robot_stimuli\\filler.mp4,13

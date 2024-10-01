@@ -1,0 +1,4 @@
+sequence,is_true,target,condition,stimuli,block,is_block_beginning,is_block_ending,sequence_fnames,target_fname,subject
+"['N', 'C']",True,C,2,letter,2,True,False,"['robot_stimuli\\\\filler.mp4', 'robot_stimuli\\\\filler.mp4']",robot_stimuli\\filler.mp4,7
+"['C', 'W']",False,M,2,letter,2,False,False,"['robot_stimuli\\\\filler.mp4', 'robot_stimuli\\\\filler.mp4']",robot_stimuli\\filler.mp4,7
+"['Z', 'H']",True,H,2,letter,2,False,True,"['robot_stimuli\\\\filler.mp4', 'robot_stimuli\\\\filler.mp4']",robot_stimuli\\filler.mp4,7
